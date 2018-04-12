@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main() {
     
     char chessdeck[8][8];
